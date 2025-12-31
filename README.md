@@ -1,5 +1,5 @@
 # Open Source Practice
-This repository is for practicing Git,GitHub,and open-source contribution workflows in preparation for GSoc 2026.
+This repository is for practicing Git,GitHub,and open-source contribution workflows in preparation for GSoc,Winter of Code Social,Winter of Code 5.O 2026.
 
 ## Goals
 - Learn Git & GitHub
